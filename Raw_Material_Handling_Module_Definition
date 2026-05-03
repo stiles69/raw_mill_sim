@@ -1,0 +1,23 @@
+1. Raw Material Handling (Module Definition)
+
+You’ve defined it well; here’s a slightly tightened systems-style version:
+
+Purpose:
+Prepare and stabilize incoming raw materials before grinding into raw meal.
+
+Inputs:
+
+Limestone
+Clay
+Sand
+Additives
+
+Outputs:
+
+Homogenized / blended raw material stream
+
+Key Control Variables:
+
+Feed rate (tons/hour) → throughput control
+Moisture (%) → affects grinding efficiency and energy use
+Particle size distribution → affects downstream mill load and consistency
